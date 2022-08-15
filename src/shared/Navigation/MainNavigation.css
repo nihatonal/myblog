@@ -1,0 +1,10 @@
+.header-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  font-family: var( --font-family-primary);
+  font-size: 36px;
+  font-weight: 700;
+}
